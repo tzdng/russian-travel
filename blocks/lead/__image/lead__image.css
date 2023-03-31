@@ -2,7 +2,6 @@
   max-width: 984px;
   margin-top: 64px;
   transition: max-width 0.5s, margin 0.5s;
-  object-fit: cover;
 }
 
 @media screen and (max-width: 1279px) {
@@ -15,7 +14,7 @@
 
 @media screen and (max-width: 1023px) {
   .lead__image {
-    max-width: 100%;
+    width: 100%;
   }
 }
 
