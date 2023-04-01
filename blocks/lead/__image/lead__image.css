@@ -1,14 +1,12 @@
 .lead__image {
   max-width: 984px;
   margin-top: 64px;
-  transition: max-width 0.5s, margin 0.5s;
 }
 
 @media screen and (max-width: 1279px) {
   .lead__image {
     max-width: 928px;
     margin-top: 56px;
-    transition: max-width 0.5s, margin 0.5s;
   }
 }
 
