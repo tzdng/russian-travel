@@ -1,4 +1,7 @@
 .lead__image {
+  display: block;
+  object-fit: cover;
+  object-position: center;
   max-width: 984px;
   margin-top: 64px;
 }
